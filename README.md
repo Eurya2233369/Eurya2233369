@@ -1,16 +1,9 @@
 - Hi, I’m @Eurya QiuZhu
-
 - My QQ:2644635373
 
-# 目前使用以下语言
+一个普普通通的全栈开发者，习惯C/C++ JVM语言，Rust，偶尔使用Lua，Python，NodeJS Js进行开发，准备学习ARM，X86汇编。
 
-| First Lang | Second Lang | Third Lang |
-| :----------- | :-----------: | -----------: |
-| Java | Python | Lua |
-| Kotlin | PHP | MarkDown |
-| C++ | C# | Ruby |
-| Clang | Asm | Null |
-| Rust | Null | Null |
+菜的离谱，勿喷
 
 ​[![​my stateses​](https://github-readme-stats.vercel.app/api?username=Eurya2233369)](https://github.com/anuraghazra/github-readme-stats)
 <!---
